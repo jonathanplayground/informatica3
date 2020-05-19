@@ -7,4 +7,6 @@ continuacion del master
 
 Creacion de una nueva rama
 esta rama trae nuevos codigos.
-y esta sera su nueva actualizacion
+y esta sera su nueva actualizacion.
+
+subir archivo a github
