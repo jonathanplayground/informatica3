@@ -1,1 +1,2 @@
-nuevo archivo, primera linea
+Nuevo archivo
+segunda linea.
